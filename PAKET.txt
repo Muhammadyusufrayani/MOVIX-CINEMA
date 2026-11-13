@@ -1,0 +1,6 @@
+MOVIX CINEMA — CUSTOMER ONLY
+Versi paket integrasi: 1.0
+Framework target: Laravel 10 / PHP 8.1+
+Fitur: registrasi pelanggan, login, logout, dashboard, ringkasan pesanan, detail pesanan.
+Admin: tidak disertakan.
+Baca README.md sebelum memasang.
